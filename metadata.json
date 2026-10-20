@@ -1,0 +1,6 @@
+{
+  "name": "DocuIndex AI - Indexador de PDFs y Base de Conocimiento",
+  "description": "Indexación temática automática de documentos PDF, base de datos local con búsqueda semántica y consultas en lenguaje natural con citas precisas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
